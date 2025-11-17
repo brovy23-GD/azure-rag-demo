@@ -1,2 +1,2 @@
-# azure-rag-demo
-Azure RAG demo with Bicep, FastAPI, LangChain
+﻿# Azure RAG Demo
+Provision Azure OpenAI + Cognitive Search with Bicep, ingest docs, and expose a FastAPI RAG endpoint.
