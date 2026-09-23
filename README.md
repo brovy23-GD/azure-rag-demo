@@ -1,5 +1,4 @@
-![RAG API Docker Monitoring Banner](RAG%20GIT%20BANNER.png)
-
+![Azure RAG Demo Banner](aZURE%20RAG.png)
 # Azure RAG Demo
 
 **Retrieval-augmented generation project scaffold** by [Bobby Rovy](https://github.com/brovy23-GD) | [LinkedIn](https://www.linkedin.com/in/bobbyrovy)
