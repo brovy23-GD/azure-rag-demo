@@ -20,3 +20,8 @@ Thumbs.db
 *.pem
 *.key
 secrets/
+
+# Local Python environment and generated files
+.venv/
+data/
+.pytest_cache/
